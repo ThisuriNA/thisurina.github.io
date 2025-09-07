@@ -1,0 +1,10 @@
+/* Only affects index page */
+
+/* Force circular shape */
+shape-image-threshold: ;.profile-pic {
+  border-radius: 50% !important;
+  width: 220px !important;
+  height: 220px !important;
+  object-fit: cover !important;
+}
+

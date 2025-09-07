@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thisuri Nimaya Athukorala",
+    "section": "",
+    "text": "Statistics | Data Science | Open Learning\nI’m a final-year Statistics undergraduate at the University of Sri Jayawardenepura, transitioning into data science with a focus on rigorous analysis, reproducible research, and actionable insights.My goal is to bridge the gap between statistical theory and data-driven decision-making. Join me as I document growth, challenges, and breakthroughs in this rapidly evolving field."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Thisuri Athukorala",
+    "section": "",
+    "text": "This interactive dashboard visualizes key aspects of Sri Lanka’s education system, highlighting student demographics and the distribution of resources across different school types and districts.\nThe dashboard uses R (ggplot2, plotly, and Quarto) for data wrangling, visualization, and interactivity. Users can hover over districts to see detailed student statistics, compare resource allocation across school categories, and analyze trends at both national and regional levels."
+  },
+  {
+    "objectID": "projects.html#learning-across-sri-lanka-student-demographics-and-school-resources-2023",
+    "href": "projects.html#learning-across-sri-lanka-student-demographics-and-school-resources-2023",
+    "title": "Thisuri Athukorala",
+    "section": "",
+    "text": "This interactive dashboard visualizes key aspects of Sri Lanka’s education system, highlighting student demographics and the distribution of resources across different school types and districts.\nThe dashboard uses R (ggplot2, plotly, and Quarto) for data wrangling, visualization, and interactivity. Users can hover over districts to see detailed student statistics, compare resource allocation across school categories, and analyze trends at both national and regional levels."
+  },
+  {
+    "objectID": "projects.html#study-the-factors-that-affect-climate-change-in-the-usa-20022022",
+    "href": "projects.html#study-the-factors-that-affect-climate-change-in-the-usa-20022022",
+    "title": "Thisuri Athukorala",
+    "section": "Study the Factors that Affect Climate Change in the USA (2002–2022)",
+    "text": "Study the Factors that Affect Climate Change in the USA (2002–2022)\n\n\n\n\n\n\nThis project explores key factors influencing climate change in the United States over the past two decades. It examines trends in sea level, temperature, and precipitation, while analyzing the effects of deforestation and greenhouse gas emissions. The study also reviews U.S. government policies aimed at mitigating these impacts, using data from reliable environmental and climate sources."
+  },
+  {
+    "objectID": "projects.html#sales-and-promotion-analysis-using-power-bi-a-case-study-on-nova-retail",
+    "href": "projects.html#sales-and-promotion-analysis-using-power-bi-a-case-study-on-nova-retail",
+    "title": "Thisuri Athukorala",
+    "section": "Sales and Promotion Analysis using Power BI – A Case Study on Nova Retail",
+    "text": "Sales and Promotion Analysis using Power BI – A Case Study on Nova Retail\n\n\nThis project focused on analyzing sales patterns, promotions, and external events (salary days and holidays) to identify key drivers of performance for Nova Retail. Using Power BI dashboards, we applied KPIs, DAX measures, and interactive visuals to evaluate promotion effectiveness, forecast accuracy, and product performance. The study revealed that promotions often failed to boost sales and deep discounts reduced profit margins, leading to recommendations for smarter discounting strategies, targeted promotions, and product diversification."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Articles.html",
+    "href": "Articles.html",
+    "title": "Thisuri Athukorala",
+    "section": "",
+    "text": "Causality explains how one event directly influences another, going beyond simple correlation by identifying the mechanism and direction of the effect. It’s crucial for answering “why” something happens and is foundation in both science and daily life. From medicine to economics and AI, understanding causality helps us predict outcomes, make better decisions, and implement effective interventions… Check out how"
+  },
+  {
+    "objectID": "Articles.html#causality-understanding-the-science-of-cause-and-effect",
+    "href": "Articles.html#causality-understanding-the-science-of-cause-and-effect",
+    "title": "Thisuri Athukorala",
+    "section": "",
+    "text": "Causality explains how one event directly influences another, going beyond simple correlation by identifying the mechanism and direction of the effect. It’s crucial for answering “why” something happens and is foundation in both science and daily life. From medicine to economics and AI, understanding causality helps us predict outcomes, make better decisions, and implement effective interventions… Check out how"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\nCode1 + 1\n\n[1] 2"
+  }
+]
