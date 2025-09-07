@@ -1,0 +1,25 @@
+---
+title: "Thisuri Nimaya Athukorala"
+format:
+  html:
+    css: index.css
+image: images/pic.jpg    
+about:
+  template: jolla
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/thisuri-athukorala
+    - icon: github
+      text: Github
+      href: https://github.com/ThisuriNA
+    - icon: envelope
+      text: Contact me
+      href: mailto:thisurinima@gmail.com  
+---
+
+Statistics \| Data Science \| Open Learning
+
+I’m a final-year Statistics undergraduate at the University of Sri Jayawardenepura, transitioning into data science with a focus on rigorous analysis, reproducible research, and actionable insights.My goal is to bridge the gap between statistical theory and data-driven decision-making. Join me as I document growth, challenges, and breakthroughs in this rapidly evolving field.

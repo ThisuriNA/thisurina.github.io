@@ -1,0 +1,52 @@
+## Learning Across Sri Lanka: Student Demographics and School Resources – 2023
+
+::: columns
+::: {.column width="55%"}
+This interactive dashboard visualizes key aspects of Sri Lanka’s education system, highlighting student demographics and the distribution of resources across different school types and districts.
+
+The dashboard uses R (`ggplot2`, `plotly`, and `Quarto`) for data wrangling, visualization, and interactivity. Users can hover over districts to see detailed student statistics, compare resource allocation across school categories, and analyze trends at both national and regional levels.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/pic_dashboard.jpg){width="400px"}
+:::
+:::
+
+
+
+## Study the Factors that Affect Climate Change in the USA (2002–2022)
+
+::: columns
+::: {.column width="40%"}
+![](images/var.png){width="500px"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+This project explores key factors influencing climate change in the United States over the past two decades. It examines trends in sea level, temperature, and precipitation, while analyzing the effects of deforestation and greenhouse gas emissions. The study also reviews U.S. government policies aimed at mitigating these impacts, using data from reliable environmental and climate sources.
+:::
+:::
+
+
+
+## Sales and Promotion Analysis using Power BI – A Case Study on Nova Retail
+
+::: columns
+::: {.column width="55%"}
+This project focused on analyzing sales patterns, promotions, and external events (salary days and holidays) to identify key drivers of performance for Nova Retail. Using Power BI dashboards, we applied KPIs, DAX measures, and interactive visuals to evaluate promotion effectiveness, forecast accuracy, and product performance. The study revealed that promotions often failed to boost sales and deep discounts reduced profit margins, leading to recommendations for smarter discounting strategies, targeted promotions, and product diversification.
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/Power_BI.png){width="400px"}
+:::
+:::
+
+

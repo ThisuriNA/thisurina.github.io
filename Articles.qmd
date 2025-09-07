@@ -1,0 +1,14 @@
+## Causality: Understanding the Science of Cause and Effect
+
+::: columns
+::: {.column width="55%"}
+Causality explains how one event directly influences another, going beyond simple correlation by identifying the mechanism and direction of the effect. It’s crucial for answering “why” something happens and is foundation in both science and daily life. From medicine to economics and AI, understanding causality helps us predict outcomes, make better decisions, and implement effective interventions... [Check out how](https://medium.com/@as2021607/causality-understanding-the-science-of-cause-and-effect-12f7a9d3bd1f){target="_blank"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/causality.webp){width="400px"}
+:::
+:::
