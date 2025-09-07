@@ -11,7 +11,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/thisuri-athukorala
+      href: https://www.linkedin.com/in/thisuri-athukorala
     - icon: github
       text: Github
       href: https://github.com/ThisuriNA
