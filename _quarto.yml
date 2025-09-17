@@ -4,7 +4,7 @@ project:
   
 website:
   title: "Thisuri Athukorala"
-  favicon: "pic.jpg"
+  favicon: "images/pic.jpg"
   
   page-footer: 
     left: |
