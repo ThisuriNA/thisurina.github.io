@@ -6,7 +6,9 @@ website:
   title: "Thisuri Athukorala"
   favicon: "images/pic.jpg"
   
-  page-footer: 
+  page-footer:
+    center: |
+      [Github Repo](https://github.com/ThisuriNA/thisurina.github.io.git)
     left: |
       Made with [Quarto](https://quarto.org/)
     right: |

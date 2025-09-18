@@ -4,7 +4,8 @@
 ::: {.column width="55%"}
 This interactive dashboard visualizes key aspects of Sri Lanka’s education system, highlighting student demographics and the distribution of resources across different school types and districts.
 
-The dashboard uses R (`ggplot2`, `plotly`, and `Quarto`) for data wrangling, visualization, and interactivity. Users can hover over districts to see detailed student statistics, compare resource allocation across school categories, and analyze trends at both national and regional levels.
+The dashboard uses R (`ggplot2`, `plotly`, and `Quarto`) for data wrangling, visualization, and interactivity. Users can hover over districts to see detailed student statistics, compare resource allocation across school categories, and analyze trends at both national and regional levels.... [checkout the Quarto Dash Board](https://dashboard-quarto.netlify.app/){target="_blanck"}
+
 :::
 
 ::: {.column width="5%"}
@@ -14,8 +15,6 @@ The dashboard uses R (`ggplot2`, `plotly`, and `Quarto`) for data wrangling, vis
 ![](images/pic_dashboard.jpg){width="400px"}
 :::
 :::
-
-
 
 ## Study the Factors that Affect Climate Change in the USA (2002–2022)
 
@@ -32,8 +31,6 @@ This project explores key factors influencing climate change in the United State
 :::
 :::
 
-
-
 ## Sales and Promotion Analysis using Power BI – A Case Study on Nova Retail
 
 ::: columns
@@ -48,5 +45,3 @@ This project focused on analyzing sales patterns, promotions, and external event
 ![](images/Power_BI.png){width="400px"}
 :::
 :::
-
-
